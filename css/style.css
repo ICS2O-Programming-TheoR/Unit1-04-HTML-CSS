@@ -2,21 +2,21 @@
 * Created on: Feb 2022
 * This css file defines the style for index.html
 *ICS2O-Unit1-04-HTML-CSS
-*/ 
+*/
 
 body {
-  background-color: #284E76;
+  background-color: #284e76;
 }
 
 h1 {
-  background-color: #432F7F;
+  background-color: #432f7f;
   color: hsl(62, 62%, 69%);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #432F7F;
+  background-color: #432f7f;
   text-align: center;
   padding: 10px;
   color: hsl(62, 62%, 69%);
